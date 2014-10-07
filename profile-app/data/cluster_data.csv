@@ -1,0 +1,1310 @@
+classification,PassengerClass,Gender,AgeGroup,SiblingsorSpouses,ParentsorChildren,CabinLetter,embarked
+Survived,1,female,Under 35,0,0,B,Southampton
+Survived,1,male,Under 18,1,2,C,Southampton
+Did not Survive,1,female,Under 18,1,2,C,Southampton
+Did not Survive,1,male,Under 35,1,2,C,Southampton
+Did not Survive,1,female,Under 35,1,2,C,Southampton
+Survived,1,male,Over 35,0,0,E,Southampton
+Survived,1,female,Over 35,1,0,D,Southampton
+Did not Survive,1,male,Over 35,0,0,A,Southampton
+Survived,1,female,Over 35,2,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Cherbourg
+Did not Survive,1,male,Over 35,1,0,C,Cherbourg
+Survived,1,female,Under 25,1,0,C,Cherbourg
+Survived,1,female,Under 25,0,0,B,Cherbourg
+Survived,1,female,Under 35,0,0,None,Southampton
+Survived,1,male,Over 35,0,0,A,Southampton
+Did not Survive,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Under 25,0,1,B,Cherbourg
+Survived,1,female,Over 35,0,1,B,Cherbourg
+Survived,1,female,Under 35,0,0,D,Cherbourg
+Did not Survive,1,male,Over 35,0,0,C,Cherbourg
+Survived,1,male,Over 35,1,1,D,Southampton
+Survived,1,female,Over 35,1,1,D,Southampton
+Survived,1,male,Under 35,0,0,C,Cherbourg
+Survived,1,female,Over 35,0,0,None,Cherbourg
+Survived,1,female,Under 35,0,0,C,Southampton
+Did not Survive,1,male,Under 35,0,0,None,Cherbourg
+Survived,1,male,Under 35,1,0,B,Cherbourg
+Survived,1,female,Under 25,1,0,B,Cherbourg
+Survived,1,female,Over 35,0,0,C,Southampton
+Survived,1,male,Under 35,0,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,T,Southampton
+Survived,1,male,Over 35,0,0,A,Cherbourg
+Survived,1,female,Under 35,0,0,C,Southampton
+Survived,1,female,Over 35,0,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,D,Southampton
+Survived,1,female,Over 35,0,0,None,Cherbourg
+Survived,1,female,Under 25,0,1,E,Southampton
+Survived,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,0,A,Southampton
+Did not Survive,1,male,Over 35,0,0,B,Cherbourg
+Did not Survive,1,male,Unknown,0,0,None,Cherbourg
+Survived,1,female,Over 35,0,0,B,Cherbourg
+Survived,1,female,Over 35,2,0,C,Southampton
+Survived,1,female,Over 35,0,0,D,Cherbourg
+Survived,1,female,Over 35,0,0,E,Cherbourg
+Did not Survive,1,male,Over 35,0,0,B,Southampton
+Did not Survive,1,male,Unknown,0,0,None,Southampton
+Survived,1,male,Over 35,0,0,E,Southampton
+Survived,1,female,Over 35,0,0,None,Cherbourg
+Survived,1,male,Over 35,0,1,B,Cherbourg
+Survived,1,female,Over 35,0,1,B,Cherbourg
+Did not Survive,1,male,Under 35,0,0,B,Southampton
+Did not Survive,1,male,Under 35,0,0,None,Southampton
+Did not Survive,1,male,Under 18,0,0,None,Southampton
+Survived,1,male,Under 18,1,2,B,Southampton
+Survived,1,female,Under 18,1,2,B,Southampton
+Survived,1,male,Over 35,1,2,B,Southampton
+Survived,1,female,Over 35,1,2,B,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Survived,1,female,Unknown,0,0,None,Cherbourg
+Did not Survive,1,male,Over 35,1,0,C,Southampton
+Survived,1,female,Over 35,1,0,C,Southampton
+Did not Survive,1,male,Over 35,1,0,E,Southampton
+Survived,1,female,Over 35,1,0,E,Southampton
+Survived,1,male,Under 35,1,0,E,Southampton
+Survived,1,female,Under 35,1,0,E,Southampton
+Survived,1,female,Over 35,0,0,B,Cherbourg
+Survived,1,female,Under 35,0,0,B,Southampton
+Survived,1,male,Over 35,0,0,A,Cherbourg
+Survived,1,female,Unknown,0,1,E,Southampton
+Did not Survive,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Under 35,1,0,C,Cherbourg
+Survived,1,female,Under 35,1,0,C,Cherbourg
+Survived,1,female,Under 25,0,0,None,Southampton
+Did not Survive,1,male,Unknown,0,0,A,Southampton
+Did not Survive,1,male,Over 35,0,0,E,Southampton
+Survived,1,female,Over 35,1,1,E,Cherbourg
+Did not Survive,1,male,Over 35,1,1,E,Cherbourg
+Survived,1,female,Over 35,0,2,E,Cherbourg
+Survived,1,female,Over 35,2,0,C,Southampton
+Did not Survive,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Over 35,1,1,B,Southampton
+Survived,1,female,Over 35,0,2,B,Southampton
+Survived,1,female,Over 35,1,1,B,Southampton
+Did not Survive,1,male,Over 35,1,0,C,Cherbourg
+Survived,1,female,Over 35,1,0,C,Cherbourg
+Survived,1,male,Over 35,0,0,E,Southampton
+Survived,1,male,Under 35,0,0,None,Southampton
+Survived,1,female,Under 35,0,0,None,Southampton
+Did not Survive,1,male,Under 35,1,0,B,Southampton
+Survived,1,female,Under 35,1,2,B,Southampton
+Survived,1,male,Under 35,1,0,B,Southampton
+Survived,1,female,Under 18,1,0,B,Southampton
+Survived,1,male,Over 35,1,1,A,Southampton
+Survived,1,male,Under 18,0,2,A,Southampton
+Survived,1,female,Over 35,1,1,A,Southampton
+Did not Survive,1,male,Over 35,1,0,C,Cherbourg
+Survived,1,female,Under 35,1,1,B,Cherbourg
+Survived,1,female,Over 35,1,0,C,Cherbourg
+Survived,1,female,Over 35,1,0,A,Cherbourg
+Survived,1,male,Over 35,1,0,A,Cherbourg
+Did not Survive,1,male,Over 35,0,0,A,Cherbourg
+Survived,1,female,Under 25,0,1,C,Cherbourg
+Survived,1,female,Over 35,0,0,C,Cherbourg
+Survived,1,female,Over 35,1,0,D,Cherbourg
+Did not Survive,1,female,Over 35,0,0,A,Cherbourg
+Did not Survive,1,male,Unknown,0,0,C,Southampton
+Survived,1,female,Unknown,0,0,None,Southampton
+Survived,1,female,Unknown,0,0,None,Cherbourg
+Survived,1,male,Over 35,0,0,E,Southampton
+Did not Survive,1,male,Under 35,0,0,C,Cherbourg
+Survived,1,female,Under 25,3,2,C,Southampton
+Survived,1,female,Under 35,3,2,C,Southampton
+Survived,1,female,Under 25,3,2,C,Southampton
+Did not Survive,1,male,Under 25,3,2,C,Southampton
+Did not Survive,1,male,Over 35,1,4,C,Southampton
+Survived,1,female,Over 35,1,4,C,Southampton
+Survived,1,female,Under 35,0,0,E,Cherbourg
+Did not Survive,1,male,Unknown,0,0,D,Southampton
+Survived,1,male,Over 35,2,0,None,Southampton
+Survived,1,male,Over 35,1,0,D,Cherbourg
+Survived,1,female,Unknown,1,0,None,Southampton
+Survived,1,female,Under 25,0,2,B,Cherbourg
+Survived,1,male,Over 35,1,1,B,Cherbourg
+Survived,1,female,Over 35,1,1,B,Cherbourg
+Did not Survive,1,male,Unknown,0,0,B,Southampton
+Did not Survive,1,male,Over 35,1,0,C,Southampton
+Survived,1,female,Over 35,1,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,E,Southampton
+Survived,1,female,Over 35,0,0,C,Cherbourg
+Survived,1,female,Under 25,0,1,None,Cherbourg
+Survived,1,female,Over 35,0,1,None,Cherbourg
+Did not Survive,1,male,Under 25,0,0,B,Cherbourg
+Survived,1,male,Over 35,1,0,C,Cherbourg
+Survived,1,female,Unknown,1,0,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,A,Cherbourg
+Survived,1,male,Over 35,0,0,C,Cherbourg
+Survived,1,female,Under 25,0,0,B,Southampton
+Did not Survive,1,male,Over 35,0,1,C,Southampton
+Survived,1,female,Over 35,0,1,C,Southampton
+Survived,1,male,Under 25,0,1,D,Cherbourg
+Survived,1,female,Over 35,0,1,D,Cherbourg
+Did not Survive,1,male,Over 35,0,0,B,Cherbourg
+Survived,1,male,Under 35,1,0,E,Cherbourg
+Survived,1,female,Under 35,1,0,E,Cherbourg
+Survived,1,male,Over 35,1,0,D,Cherbourg
+Survived,1,female,Over 35,1,0,D,Cherbourg
+Did not Survive,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Over 35,1,0,C,Southampton
+Survived,1,female,Over 35,1,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,B,Southampton
+Survived,1,male,Under 35,0,0,D,Cherbourg
+Survived,1,male,Unknown,0,0,D,Southampton
+Survived,1,female,Under 25,0,0,C,Cherbourg
+Did not Survive,1,male,Over 35,1,1,B,Southampton
+Survived,1,female,Over 35,1,1,B,Southampton
+Did not Survive,1,male,Over 35,0,0,B,Southampton
+Did not Survive,1,male,Unknown,0,0,E,Southampton
+Did not Survive,1,male,Over 35,0,0,C,Southampton
+Survived,1,female,Under 18,0,1,B,Cherbourg
+Survived,1,female,Over 35,0,1,B,Cherbourg
+Survived,1,female,Over 35,1,0,D,Southampton
+Did not Survive,1,male,Over 35,1,0,None,Southampton
+Survived,1,female,Over 35,1,0,None,Southampton
+Survived,1,male,Over 35,0,0,None,Cherbourg
+Survived,1,male,Over 35,1,0,C,Southampton
+Did not Survive,1,male,Unknown,0,0,None,Cherbourg
+Survived,1,female,Over 35,1,0,C,Southampton
+Survived,1,female,Over 35,0,0,B,Cherbourg
+Did not Survive,1,female,Over 35,0,0,C,Cherbourg
+Survived,1,male,Over 35,0,0,B,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,0,E,Southampton
+Did not Survive,1,male,Under 35,0,0,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,B,Cherbourg
+Did not Survive,1,male,Over 35,1,0,D,Southampton
+Survived,1,female,Unknown,1,0,D,Southampton
+Survived,1,male,Over 35,1,0,D,Southampton
+Survived,1,female,Over 35,1,0,D,Southampton
+Did not Survive,1,male,Unknown,0,0,C,Southampton
+Survived,1,female,Over 35,0,0,None,Southampton
+Survived,1,female,Over 35,0,0,D,Southampton
+Survived,1,female,Under 35,0,0,None,Cherbourg
+Survived,1,male,Over 35,0,0,B,Cherbourg
+Did not Survive,1,male,Unknown,0,0,None,Cherbourg
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Survived,1,female,Over 35,0,0,None,Cherbourg
+Survived,1,female,Under 18,0,1,D,Southampton
+Survived,1,female,Over 35,0,1,D,Southampton
+Did not Survive,1,male,Under 35,0,0,D,Southampton
+Survived,1,female,Under 25,0,0,D,Southampton
+Did not Survive,1,male,Under 35,0,0,None,Southampton
+Survived,1,female,Over 35,0,0,B,Cherbourg
+Survived,1,female,Under 18,0,1,B,Southampton
+Did not Survive,1,male,Under 35,0,0,C,Southampton
+Survived,1,female,Under 18,0,0,B,Southampton
+Survived,1,male,Unknown,0,0,C,Cherbourg
+Did not Survive,1,male,Under 25,1,0,D,Southampton
+Survived,1,female,Under 25,1,0,D,Southampton
+Survived,1,female,Under 25,0,0,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,E,Southampton
+Survived,1,male,Over 35,0,0,E,Southampton
+Did not Survive,1,male,Under 35,1,0,None,Cherbourg
+Survived,1,female,Unknown,1,0,None,Cherbourg
+Did not Survive,1,male,Over 35,0,0,E,Southampton
+Did not Survive,1,male,Over 35,2,0,C,Queenstown
+Survived,1,female,Under 35,1,0,C,Queenstown
+Survived,1,female,Over 35,1,0,C,Queenstown
+Survived,1,male,Under 35,1,0,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,1,C,Cherbourg
+Survived,1,female,Under 35,1,0,D,Cherbourg
+Survived,1,female,Under 25,1,0,D,Cherbourg
+Did not Survive,1,male,Over 35,0,2,D,Cherbourg
+Survived,1,female,Under 25,0,2,D,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Survived,1,female,Over 35,0,0,C,Cherbourg
+Survived,1,male,Unknown,0,0,None,Cherbourg
+Survived,1,female,Under 25,0,1,B,Cherbourg
+Did not Survive,1,male,Over 35,0,1,B,Cherbourg
+Did not Survive,1,male,Under 35,0,0,D,Cherbourg
+Did not Survive,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,0,C,Southampton
+Did not Survive,1,male,Under 25,0,0,B,Southampton
+Did not Survive,1,male,Under 35,1,0,C,Southampton
+Survived,1,female,Under 25,1,0,C,Southampton
+Did not Survive,1,male,Under 25,1,0,C,Cherbourg
+Survived,1,female,Under 18,1,0,C,Cherbourg
+Survived,1,female,Under 35,0,0,B,Southampton
+Survived,1,male,Over 35,0,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,C,Southampton
+Survived,1,female,Over 35,0,1,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Survived,1,male,Unknown,0,0,None,Southampton
+Did not Survive,1,male,Under 25,0,0,None,Cherbourg
+Did not Survive,1,male,Unknown,0,0,None,Cherbourg
+Survived,1,female,Over 35,0,1,B,Southampton
+Did not Survive,1,male,Under 35,0,0,A,Southampton
+Survived,1,male,Over 35,0,0,None,Southampton
+Did not Survive,1,male,Unknown,0,0,A,Southampton
+Survived,1,female,Under 35,0,0,A,Cherbourg
+Did not Survive,1,male,Over 35,0,0,None,Cherbourg
+Did not Survive,1,male,Over 35,0,0,A,Cherbourg
+Survived,1,female,Under 35,0,0,B,Southampton
+Did not Survive,1,male,Over 35,1,0,None,Cherbourg
+Survived,1,female,Over 35,1,0,None,Cherbourg
+Did not Survive,1,male,Under 35,0,0,None,Southampton
+Survived,1,male,Under 18,2,2,B,Cherbourg
+Survived,1,female,Under 25,2,2,B,Cherbourg
+Survived,1,female,Under 25,2,2,B,Cherbourg
+Did not Survive,1,male,Over 35,1,3,B,Cherbourg
+Survived,1,female,Over 35,1,3,B,Cherbourg
+Survived,1,male,Unknown,0,0,C,Southampton
+Survived,1,female,Under 25,0,0,B,Cherbourg
+Survived,1,male,Unknown,0,0,None,Southampton
+Survived,1,female,Over 35,1,0,C,Cherbourg
+Survived,1,female,Under 35,0,0,None,Cherbourg
+Survived,1,male,Under 35,0,0,None,Southampton
+Survived,1,female,Over 35,0,0,C,Southampton
+Survived,1,male,Over 35,0,0,E,Southampton
+Did not Survive,1,male,Over 35,1,0,E,Southampton
+Survived,1,female,Over 35,1,0,E,Southampton
+Survived,1,male,Over 35,0,0,A,Cherbourg
+Survived,1,male,Under 35,0,0,A,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,0,A,Cherbourg
+Did not Survive,1,male,Under 25,1,0,C,Southampton
+Did not Survive,1,male,Unknown,0,0,A,Southampton
+Survived,1,female,Under 25,1,0,C,Southampton
+Survived,1,male,Under 25,1,0,B,Southampton
+Survived,1,female,Under 25,1,0,B,Southampton
+Survived,1,male,Under 18,0,2,E,Cherbourg
+Survived,1,male,Over 35,1,1,E,Cherbourg
+Survived,1,female,Over 35,1,1,E,Cherbourg
+Did not Survive,1,male,Over 35,1,0,B,Cherbourg
+Survived,1,female,Unknown,1,0,B,Cherbourg
+Survived,1,male,Under 35,0,0,B,Cherbourg
+Did not Survive,1,male,Over 35,0,0,C,Southampton
+Survived,1,male,Over 35,1,0,C,Cherbourg
+Survived,1,female,Over 35,1,0,C,Cherbourg
+Survived,1,female,Over 35,1,0,D,Cherbourg
+Did not Survive,1,male,Unknown,0,0,None,Cherbourg
+Survived,1,female,Over 35,0,0,B,Cherbourg
+Did not Survive,1,male,Over 35,1,0,C,Southampton
+Did not Survive,1,female,Over 35,1,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,D,Southampton
+Survived,1,female,Over 35,0,0,D,Southampton
+Survived,1,female,Under 25,0,2,E,Southampton
+Did not Survive,1,male,Over 35,1,1,E,Southampton
+Survived,1,female,Over 35,1,1,E,Southampton
+Survived,1,male,Over 35,1,0,C,Southampton
+Survived,1,female,Unknown,1,0,C,Southampton
+Did not Survive,1,male,Over 35,1,1,C,Cherbourg
+Survived,1,male,Under 18,0,2,C,Cherbourg
+Survived,1,female,Over 35,1,1,C,Cherbourg
+Survived,1,female,Unknown,0,0,None,Cherbourg
+Survived,1,male,Under 35,0,0,C,Cherbourg
+Did not Survive,1,male,Over 35,0,0,None,Cherbourg
+Did not Survive,1,male,Over 35,0,0,B,Southampton
+Did not Survive,1,male,Over 35,0,0,D,Southampton
+Survived,1,female,Over 35,0,0,None,Cherbourg
+Did not Survive,1,male,Over 35,1,0,D,Cherbourg
+Survived,1,female,Over 35,1,0,D,Cherbourg
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,1,D,Southampton
+Did not Survive,1,male,Under 25,0,1,D,Southampton
+Survived,1,female,Over 35,0,0,C,Cherbourg
+Survived,1,female,Under 35,0,2,C,Southampton
+Did not Survive,1,male,Over 35,1,1,None,Southampton
+Survived,1,female,Over 35,1,1,None,Southampton
+Did not Survive,1,male,Over 35,1,1,C,Cherbourg
+Did not Survive,1,male,Under 35,0,2,C,Cherbourg
+Survived,1,female,Over 35,1,1,C,Cherbourg
+Survived,1,female,Under 25,0,0,None,Southampton
+Did not Survive,1,male,Over 35,0,1,None,Cherbourg
+Survived,1,male,Under 25,0,1,None,Cherbourg
+Did not Survive,1,male,Unknown,0,0,C,Southampton
+Survived,1,female,Under 35,0,0,E,Cherbourg
+Survived,1,male,Unknown,0,0,C,Southampton
+Did not Survive,1,male,Over 35,0,0,None,Southampton
+Survived,1,female,Over 35,0,0,C,Cherbourg
+Did not Survive,2,male,Under 35,1,0,None,Cherbourg
+Survived,2,female,Under 35,1,0,None,Cherbourg
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Over 35,1,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,female,Over 35,0,0,D,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Under 25,1,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,male,Under 18,2,1,F,Southampton
+Survived,2,female,Under 18,2,1,F,Southampton
+Survived,2,female,Under 18,2,1,F,Southampton
+Survived,2,female,Over 35,0,3,F,Southampton
+Survived,2,male,Under 35,0,0,D,Southampton
+Survived,2,female,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,female,Under 25,0,0,F,Southampton
+Survived,2,female,Under 18,0,2,None,Southampton
+Did not Survive,2,male,Over 35,1,1,None,Southampton
+Survived,2,female,Over 35,1,1,None,Southampton
+Survived,2,female,Under 25,1,0,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Survived,2,male,Under 18,0,2,None,Southampton
+Survived,2,male,Under 35,1,1,None,Southampton
+Survived,2,female,Under 25,1,1,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,female,Over 35,1,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Did not Survive,2,female,Under 35,1,0,None,Southampton
+Survived,2,female,Under 35,1,1,None,Southampton
+Survived,2,female,Over 35,0,2,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Under 35,1,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,male,Under 25,0,0,None,Southampton
+Survived,2,female,Under 18,0,2,None,Southampton
+Did not Survive,2,male,Under 35,1,1,None,Southampton
+Survived,2,female,Under 35,1,1,None,Southampton
+Survived,2,female,Under 25,0,0,F,Southampton
+Did not Survive,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,female,Unknown,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Survived,2,male,Under 18,1,1,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,female,Over 35,0,2,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 18,0,0,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Cherbourg
+Survived,2,female,Under 25,1,0,None,Cherbourg
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,female,Under 25,0,1,None,Southampton
+Survived,2,female,Under 35,0,1,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,male,Under 18,0,2,None,Southampton
+Did not Survive,2,male,Over 35,1,1,None,Southampton
+Survived,2,female,Under 35,1,1,None,Southampton
+Survived,2,female,Under 35,1,0,None,Cherbourg
+Survived,2,female,Under 35,1,0,None,Cherbourg
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Survived,2,female,Under 35,1,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Did not Survive,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 18,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,1,0,None,Southampton
+Did not Survive,2,male,Under 25,1,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,male,Under 18,1,1,None,Southampton
+Survived,2,female,Under 25,0,2,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Under 18,0,1,None,Southampton
+Did not Survive,2,male,Under 35,0,1,None,Southampton
+Survived,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,female,Under 18,0,2,None,Southampton
+Did not Survive,2,male,Over 35,1,1,None,Southampton
+Survived,2,female,Over 35,1,1,None,Southampton
+Survived,2,female,Under 25,1,2,None,Southampton
+Survived,2,female,Under 25,1,2,None,Southampton
+Did not Survive,2,male,Over 35,1,2,None,Southampton
+Survived,2,female,Over 35,1,2,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,2,0,None,Southampton
+Did not Survive,2,male,Under 35,2,0,None,Southampton
+Did not Survive,2,male,Under 25,2,0,None,Southampton
+Did not Survive,2,female,Under 25,1,1,None,Southampton
+Survived,2,female,Under 25,2,1,None,Southampton
+Did not Survive,2,male,Under 25,2,1,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Over 35,1,3,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Survived,2,female,Under 35,1,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Did not Survive,2,female,Over 35,1,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,female,Under 18,0,0,None,Southampton
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Survived,2,female,Under 25,2,1,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,2,0,None,Southampton
+Did not Survive,2,male,Under 25,2,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,female,Under 25,0,0,D,Cherbourg
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Under 25,1,0,None,Southampton
+Did not Survive,2,female,Under 25,0,0,None,Southampton
+Survived,2,female,Unknown,0,0,E,Queenstown
+Did not Survive,2,male,Over 35,0,0,None,Queenstown
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Queenstown
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,female,Under 35,1,1,None,Southampton
+Did not Survive,2,male,Under 35,1,1,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Queenstown
+Survived,2,female,Under 18,1,2,None,Cherbourg
+Survived,2,female,Under 18,1,2,None,Cherbourg
+Did not Survive,2,male,Under 35,1,2,None,Cherbourg
+Survived,2,female,Under 25,1,2,None,Cherbourg
+Survived,2,female,Under 18,0,0,None,Cherbourg
+Survived,2,female,Unknown,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,F,Southampton
+Did not Survive,2,male,Over 35,0,0,D,Cherbourg
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Queenstown
+Did not Survive,2,male,Over 35,1,0,None,Southampton
+Survived,2,female,Over 35,1,0,None,Southampton
+Did not Survive,2,female,Over 35,0,0,E,Southampton
+Did not Survive,2,male,Unknown,0,0,D,Cherbourg
+Survived,2,male,Under 18,0,2,None,Cherbourg
+Did not Survive,2,male,Under 35,1,1,None,Cherbourg
+Survived,2,female,Under 25,1,1,None,Cherbourg
+Did not Survive,2,male,Unknown,0,0,None,Cherbourg
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Under 18,0,1,None,Southampton
+Survived,2,female,Over 35,0,1,None,Southampton
+Survived,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 18,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Queenstown
+Did not Survive,2,male,Under 35,1,0,None,Cherbourg
+Survived,2,female,Under 18,1,0,None,Cherbourg
+Survived,2,male,Under 18,1,1,F,Southampton
+Survived,2,male,Under 18,1,1,F,Southampton
+Did not Survive,2,male,Over 35,0,2,F,Southampton
+Did not Survive,2,male,Under 35,0,0,F,Southampton
+Did not Survive,2,male,Under 25,1,1,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,male,Under 25,0,0,D,Cherbourg
+Survived,2,female,Under 35,0,0,F,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,male,Under 25,0,0,None,Southampton
+Survived,2,male,Unknown,0,0,None,Cherbourg
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,male,Under 35,0,0,None,Cherbourg
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Survived,2,female,Over 35,0,1,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Cherbourg
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Under 25,0,1,None,Southampton
+Survived,2,female,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,1,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,male,Under 35,0,0,None,Cherbourg
+Did not Survive,2,male,Under 35,0,0,None,Cherbourg
+Survived,2,female,Under 18,1,1,None,Southampton
+Survived,2,female,Under 18,1,1,None,Southampton
+Survived,2,female,Under 35,0,2,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Under 35,3,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Cherbourg
+Survived,2,male,Under 18,1,1,None,Southampton
+Survived,2,male,Under 18,1,1,None,Southampton
+Survived,2,female,Under 25,2,3,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,female,Under 25,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Survived,2,female,Under 35,0,1,None,Southampton
+Survived,2,female,Under 25,0,2,None,Southampton
+Survived,2,female,Under 25,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Queenstown
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Cherbourg
+Did not Survive,2,male,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,F,Southampton
+Did not Survive,2,male,Under 18,0,0,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Under 25,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,E,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Did not Survive,2,female,Under 35,1,0,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Did not Survive,2,male,Under 25,1,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Survived,2,female,Under 18,0,0,None,Southampton
+Survived,2,female,Over 35,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,E,Southampton
+Did not Survive,2,male,Under 35,1,0,None,Southampton
+Survived,2,female,Under 35,1,0,None,Southampton
+Survived,2,male,Under 18,1,1,None,Southampton
+Survived,2,female,Under 18,1,1,None,Southampton
+Survived,2,female,Under 35,0,2,None,Southampton
+Survived,2,female,Under 18,1,2,None,Southampton
+Survived,2,female,Under 18,1,2,None,Southampton
+Did not Survive,2,male,Over 35,1,2,None,Southampton
+Survived,2,female,Under 35,1,2,None,Southampton
+Did not Survive,2,male,Over 35,0,0,None,Southampton
+Did not Survive,2,male,Unknown,0,0,None,Southampton
+Survived,2,male,Under 35,0,0,None,Southampton
+Survived,2,male,Unknown,0,0,None,Southampton
+Survived,2,female,Under 35,0,0,None,Southampton
+Did not Survive,2,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,2,None,Southampton
+Did not Survive,3,male,Under 18,1,1,None,Southampton
+Survived,3,female,Over 35,1,1,None,Southampton
+Survived,3,female,Under 18,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,F,Southampton
+Survived,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Over 35,1,0,None,Southampton
+Survived,3,male,Under 18,0,1,None,Southampton
+Survived,3,female,Under 25,0,1,None,Southampton
+Survived,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,female,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Under 18,4,2,None,Southampton
+Did not Survive,3,female,Under 18,4,2,None,Southampton
+Did not Survive,3,female,Under 18,4,2,None,Southampton
+Survived,3,female,Under 18,4,2,None,Southampton
+Did not Survive,3,female,Over 35,4,2,None,Southampton
+Did not Survive,3,female,Under 18,4,2,None,Southampton
+Did not Survive,3,female,Under 18,4,2,None,Southampton
+Did not Survive,3,male,Over 35,1,5,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Over 35,1,5,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Did not Survive,3,female,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,4,2,None,Southampton
+Did not Survive,3,male,Under 18,4,2,None,Southampton
+Survived,3,male,Under 18,4,2,None,Southampton
+Did not Survive,3,male,Under 18,4,2,None,Southampton
+Survived,3,female,Under 18,4,2,None,Southampton
+Did not Survive,3,male,Over 35,1,5,None,Southampton
+Survived,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Over 35,1,5,None,Southampton
+Survived,3,female,Over 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 18,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 18,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Survived,3,female,Under 35,3,0,None,Southampton
+Survived,3,female,Under 18,2,1,None,Cherbourg
+Survived,3,female,Under 18,2,1,None,Cherbourg
+Survived,3,female,Under 18,2,1,None,Cherbourg
+Survived,3,female,Under 25,0,3,None,Cherbourg
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,female,Under 25,0,1,None,Cherbourg
+Did not Survive,3,female,Over 35,0,1,None,Cherbourg
+Did not Survive,3,female,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,1,1,None,Cherbourg
+Did not Survive,3,female,Under 18,1,1,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,female,Unknown,0,2,None,Cherbourg
+Did not Survive,3,female,Unknown,0,2,None,Queenstown
+Did not Survive,3,male,Over 35,1,1,None,Queenstown
+Did not Survive,3,female,Under 35,1,1,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Queenstown
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Did not Survive,3,male,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Queenstown
+Survived,3,male,Under 25,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Queenstown
+Did not Survive,3,female,Under 25,0,0,None,Queenstown
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,1,0,None,Cherbourg
+Did not Survive,3,female,Unknown,1,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 18,0,0,None,Queenstown
+Did not Survive,3,female,Over 35,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Queenstown
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Cherbourg
+Did not Survive,3,male,Under 25,1,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Queenstown
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,None,Queenstown
+Survived,3,female,Under 25,0,0,None,Queenstown
+Did not Survive,3,female,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Over 35,0,0,None,Queenstown
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 18,1,1,None,Southampton
+Survived,3,male,Under 18,1,1,None,Southampton
+Survived,3,female,Over 35,0,2,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 18,0,1,None,Southampton
+Did not Survive,3,male,Over 35,0,1,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Survived,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 35,0,0,None,Queenstown
+Survived,3,male,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Under 18,0,2,None,Southampton
+Did not Survive,3,male,Under 35,1,1,None,Southampton
+Did not Survive,3,female,Under 35,1,1,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,2,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,2,0,None,Southampton
+Did not Survive,3,male,Under 18,2,0,None,Southampton
+Did not Survive,3,male,Unknown,1,0,None,Southampton
+Survived,3,female,Unknown,1,0,None,Southampton
+Survived,3,male,Over 35,1,0,None,Southampton
+Survived,3,female,Over 35,1,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Survived,3,male,Under 18,1,2,None,Southampton
+Survived,3,female,Under 18,1,2,None,Southampton
+Did not Survive,3,male,Under 35,1,2,None,Southampton
+Survived,3,female,Under 35,1,2,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Queenstown
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Queenstown
+Survived,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Queenstown
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Queenstown
+Survived,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,1,0,None,Southampton
+Survived,3,female,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Over 35,0,2,None,Cherbourg
+Did not Survive,3,male,Under 18,1,1,None,Cherbourg
+Did not Survive,3,male,Under 18,1,1,None,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,female,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Queenstown
+Survived,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Under 25,2,2,None,Southampton
+Did not Survive,3,female,Under 18,2,2,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,2,2,None,Southampton
+Did not Survive,3,male,Under 18,1,3,None,Southampton
+Did not Survive,3,female,Over 35,1,3,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 18,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 18,0,2,None,Southampton
+Did not Survive,3,male,Under 35,1,1,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,female,Under 35,1,1,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,5,2,None,Southampton
+Did not Survive,3,male,Under 18,5,2,None,Southampton
+Did not Survive,3,male,Under 18,5,2,None,Southampton
+Did not Survive,3,female,Under 18,5,2,None,Southampton
+Did not Survive,3,female,Under 18,5,2,None,Southampton
+Did not Survive,3,male,Under 18,5,2,None,Southampton
+Did not Survive,3,male,Over 35,1,6,None,Southampton
+Did not Survive,3,female,Over 35,1,6,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,2,0,None,Southampton
+Did not Survive,3,male,Under 35,2,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 18,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,1,0,None,Southampton
+Did not Survive,3,male,Unknown,1,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Survived,3,female,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Over 35,2,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Over 35,1,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 18,0,0,None,Cherbourg
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Queenstown
+Survived,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Under 18,0,1,None,Southampton
+Survived,3,female,Under 25,1,1,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,F,Southampton
+Survived,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Under 35,1,0,None,Southampton
+Did not Survive,3,female,Under 35,1,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Cherbourg
+Survived,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,1,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 18,1,1,None,Southampton
+Survived,3,female,Under 18,1,1,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 35,0,2,None,Southampton
+Did not Survive,3,male,Unknown,1,2,None,Southampton
+Did not Survive,3,female,Unknown,1,2,None,Southampton
+Did not Survive,3,male,Unknown,1,2,None,Southampton
+Did not Survive,3,female,Unknown,1,2,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Under 25,1,0,None,Southampton
+Did not Survive,3,female,Under 25,1,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 18,0,1,None,Cherbourg
+Survived,3,male,Over 35,0,1,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,None,Queenstown
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,1,0,None,Cherbourg
+Did not Survive,3,female,Unknown,1,0,None,Cherbourg
+Did not Survive,3,male,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,female,Under 25,2,0,None,Southampton
+Did not Survive,3,male,Under 35,2,0,None,Southampton
+Survived,3,female,Under 18,0,2,None,Southampton
+Survived,3,male,Under 35,3,1,None,Southampton
+Survived,3,female,Under 35,1,1,None,Southampton
+Did not Survive,3,female,Under 18,1,1,None,Southampton
+Did not Survive,3,male,Under 25,1,1,None,Southampton
+Did not Survive,3,female,Over 35,0,2,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Survived,3,male,Under 35,0,0,F,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,female,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,3,1,None,Southampton
+Did not Survive,3,female,Unknown,3,1,None,Southampton
+Did not Survive,3,female,Unknown,3,1,None,Southampton
+Did not Survive,3,female,Unknown,3,1,None,Southampton
+Did not Survive,3,female,Unknown,0,4,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,female,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,1,0,None,Southampton
+Did not Survive,3,female,Under 35,1,0,None,Southampton
+Survived,3,male,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Did not Survive,3,female,Under 35,1,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,female,Under 35,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,F,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,male,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,2,0,None,Queenstown
+Survived,3,female,Unknown,2,0,None,Queenstown
+Survived,3,male,Unknown,2,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Under 18,0,0,None,Queenstown
+Did not Survive,3,female,Over 35,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,1,0,None,Southampton
+Did not Survive,3,female,Under 25,1,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,F,Southampton
+Survived,3,male,Under 18,0,1,E,Southampton
+Survived,3,female,Under 35,0,1,E,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,male,Unknown,0,0,None,Southampton
+Survived,3,male,Unknown,1,1,None,Cherbourg
+Survived,3,male,Unknown,1,1,None,Cherbourg
+Survived,3,female,Unknown,0,2,None,Cherbourg
+Survived,3,female,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Under 25,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,1,0,None,Queenstown
+Survived,3,female,Unknown,1,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 18,0,0,None,Cherbourg
+Survived,3,female,Under 18,0,2,None,Cherbourg
+Survived,3,male,Under 25,1,1,None,Cherbourg
+Survived,3,female,Under 25,1,1,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,male,Under 18,1,0,None,Cherbourg
+Survived,3,female,Under 18,1,0,None,Cherbourg
+Did not Survive,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Survived,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,1,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,female,Under 25,0,0,None,Southampton
+Survived,3,male,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 18,0,1,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,1,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Survived,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 18,3,1,None,Southampton
+Did not Survive,3,male,Under 18,3,1,None,Southampton
+Did not Survive,3,female,Under 18,3,1,None,Southampton
+Did not Survive,3,female,Under 18,3,1,None,Southampton
+Did not Survive,3,female,Under 35,0,4,None,Southampton
+Did not Survive,3,male,Under 18,4,1,None,Southampton
+Did not Survive,3,male,Under 18,4,1,None,Southampton
+Did not Survive,3,male,Under 18,4,1,None,Southampton
+Did not Survive,3,male,Under 18,4,1,None,Southampton
+Did not Survive,3,male,Under 18,4,1,None,Southampton
+Did not Survive,3,female,Over 35,0,5,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,1,1,None,Southampton
+Did not Survive,3,female,Under 18,1,1,None,Southampton
+Did not Survive,3,female,Under 35,0,2,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,1,0,None,Southampton
+Survived,3,male,Unknown,1,1,None,Cherbourg
+Survived,3,female,Unknown,1,1,F,Cherbourg
+Survived,3,female,Unknown,0,2,None,Cherbourg
+Did not Survive,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,E,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 18,4,1,None,Queenstown
+Did not Survive,3,male,Under 18,4,1,None,Queenstown
+Did not Survive,3,male,Under 18,4,1,None,Queenstown
+Did not Survive,3,male,Under 18,4,1,None,Queenstown
+Did not Survive,3,male,Under 18,4,1,None,Queenstown
+Did not Survive,3,female,Over 35,0,5,None,Queenstown
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,1,0,None,Southampton
+Did not Survive,3,female,Over 35,1,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,female,Under 18,1,1,None,Southampton
+Did not Survive,3,male,Under 25,1,1,None,Southampton
+Did not Survive,3,female,Over 35,0,2,None,Southampton
+Survived,3,female,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 18,0,0,None,Southampton
+Survived,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,8,2,None,Southampton
+Did not Survive,3,male,Under 18,8,2,None,Southampton
+Did not Survive,3,female,Unknown,8,2,None,Southampton
+Did not Survive,3,female,Unknown,8,2,None,Southampton
+Did not Survive,3,female,Unknown,8,2,None,Southampton
+Did not Survive,3,female,Unknown,8,2,None,Southampton
+Did not Survive,3,male,Unknown,8,2,None,Southampton
+Did not Survive,3,male,Unknown,8,2,None,Southampton
+Did not Survive,3,male,Unknown,8,2,None,Southampton
+Did not Survive,3,male,Unknown,1,9,None,Southampton
+Did not Survive,3,female,Unknown,1,9,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,2,0,None,Cherbourg
+Did not Survive,3,male,Unknown,2,0,None,Cherbourg
+Did not Survive,3,male,Unknown,2,0,None,Cherbourg
+Survived,3,female,Under 18,1,1,G,Southampton
+Survived,3,female,Under 25,0,2,G,Southampton
+Survived,3,female,Under 18,1,1,G,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 18,3,2,None,Southampton
+Did not Survive,3,male,Under 18,3,2,None,Southampton
+Did not Survive,3,female,Under 18,3,2,None,Southampton
+Did not Survive,3,female,Under 18,3,2,None,Southampton
+Did not Survive,3,male,Over 35,1,4,None,Southampton
+Did not Survive,3,female,Over 35,1,4,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Queenstown
+Survived,3,female,Unknown,0,0,None,Queenstown
+Did not Survive,3,male,Under 25,0,0,F,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Survived,3,female,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,female,Under 18,0,1,G,Southampton
+Did not Survive,3,female,Under 35,1,1,G,Southampton
+Survived,3,male,Under 18,0,0,None,Southampton
+Survived,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,male,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,male,Under 18,0,1,None,Cherbourg
+Did not Survive,3,male,Unknown,1,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Survived,3,female,Under 18,1,1,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,1,0,None,Southampton
+Survived,3,female,Unknown,1,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,F,Queenstown
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Survived,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Survived,3,male,Under 18,1,1,None,Cherbourg
+Survived,3,female,Under 18,1,1,None,Cherbourg
+Survived,3,female,Under 35,0,2,None,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Survived,3,female,Under 25,0,0,None,Southampton
+Survived,3,female,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,1,1,None,Southampton
+Did not Survive,3,male,Under 18,1,1,None,Southampton
+Did not Survive,3,male,Over 35,0,2,None,Southampton
+Did not Survive,3,female,Under 18,0,2,None,Southampton
+Did not Survive,3,male,Over 35,1,1,None,Southampton
+Did not Survive,3,female,Under 35,1,1,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,female,Under 25,2,0,None,Southampton
+Did not Survive,3,male,Under 35,3,0,None,Southampton
+Did not Survive,3,male,Under 18,2,0,None,Southampton
+Did not Survive,3,female,Under 35,1,0,None,Southampton
+Survived,3,male,Under 25,0,0,None,Cherbourg
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,female,Under 18,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Survived,3,female,Over 35,0,0,None,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,1,0,None,Southampton
+Did not Survive,3,male,Under 25,1,0,None,Southampton
+Survived,3,female,Over 35,1,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Under 25,0,0,None,Southampton
+Did not Survive,3,male,Under 35,0,0,None,Southampton
+Did not Survive,3,male,Unknown,0,0,None,Southampton
+Did not Survive,3,male,Over 35,0,0,None,Southampton
+Did not Survive,3,male,Under 35,1,0,None,Cherbourg
+Survived,3,female,Under 18,1,0,None,Cherbourg
+Did not Survive,3,male,Over 35,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,male,Unknown,0,0,None,Cherbourg
+Did not Survive,3,female,Under 18,1,0,None,Cherbourg
+Did not Survive,3,female,Unknown,1,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Cherbourg
+Did not Survive,3,male,Under 35,0,0,None,Southampton
