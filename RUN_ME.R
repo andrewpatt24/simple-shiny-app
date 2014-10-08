@@ -17,8 +17,7 @@ setwd("")
 library(shinyapps)
 shinyapps::setAccountInfo(name='', 
                           token='', 
-                          secret=''
-                          )
+                          secret='')
 
 ###Run the app locally to test it
 library(shiny)
